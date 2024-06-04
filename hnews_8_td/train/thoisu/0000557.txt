@@ -1,0 +1,1 @@
+Mỗi công_chức sẽ có một mã_định_danh Mỗi cán_bộ , công_chức , viên_chức sẽ có mã_định_danh duy_nhất , được kết_xuất từ cơ_sở_dữ_liệu quốc_gia và in trên thẻ đeo hàng ngày , Bộ Nội_vụ đề_xuất .

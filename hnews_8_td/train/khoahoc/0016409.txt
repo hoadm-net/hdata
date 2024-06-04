@@ -1,0 +1,1 @@
+Các sân_bay được thiết_kế như_thế_nào ? Khi thiết_kế đường_băng sân_bay , các chuyên_gia phải tính đến nhiều yếu_tố như hướng gió , thời_tiết , số_lượng chuyến bay và trọng_lượng máy_bay .

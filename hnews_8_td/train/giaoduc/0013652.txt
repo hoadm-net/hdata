@@ -1,0 +1,1 @@
+' Điểm chuẩn lớp 10 Hà_Nội có_thể tăng 1-1 , 25 ' Nhận_định điểm phổ_biến của học_sinh ở mỗi môn_Văn , Toán , Tiếng Anh là 7,5 , các nhà_giáo dự_đoán điểm chuẩn vào lớp 10 ở Hà_Nội tăng nhẹ , khoảng 1-1 , 25 điểm so với năm_ngoái .

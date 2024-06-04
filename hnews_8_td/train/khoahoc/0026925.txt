@@ -1,0 +1,1 @@
+Chip dùng cho cảm_biến thắng giải thiết_kế vi_mạch TP HCM Chip tăng khả_năng thu_nhận tín_hiệu từ cảm_biến , ứng_dụng lĩnh_vực IoT do sinh_viên thực_hiện thắng giải thiết_kế vi_mạch TP HCM với phần thưởng 30 triệu đồng .

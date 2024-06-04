@@ -1,0 +1,1 @@
+Sinh_viên làm cánh_tay robot điều_khiển bằng cử_chỉ Cao_Quốc_Khánh , sinh_viên Đại_học Công_nghiệp Thực_phẩm TP HCM chế_tạo cánh_tay robot bắt_chước các cử_động_cơ_bản cánh_tay người , ứng_dụng trong nhà_máy , hỗ_trợ bệnh_nhân .

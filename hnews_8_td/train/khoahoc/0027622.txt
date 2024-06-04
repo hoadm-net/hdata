@@ -1,0 +1,1 @@
+Thiếu thông_tin khó chuẩn_hóa dữ_liệu hồ_sơ sức_khỏe Các nhà_nghiên_cứu cho rằng việc xử_lý dữ_liệu bệnh_nhân mất nhiều thời_gian , thiếu thông_tin nên ảnh_hưởng đến tính chính_xác mô_hình trí_tuệ nhân_tạo ( AI ) chẩn_đoán bệnh .

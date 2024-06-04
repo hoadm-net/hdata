@@ -1,0 +1,1 @@
+Tìm tên con vật bằng tiếng Anh Dựa vào các hình_ảnh đã cho , trong 10 giây , liệu bạn có_thể tìm được tên con vật được nhắc tới bằng tiếng Anh ?

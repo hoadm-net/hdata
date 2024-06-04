@@ -1,0 +1,1 @@
+Thử_thách tìm mật_khẩu cho ổ_khóa Với năm dữ_kiện gợi_ý và 30 giây , liệu bạn có tìm được mật_khẩu có ba chữ_số của ổ_khóa ?_Câu 1 : >> Đáp_ánCâu 2 : Tìm giá_trị của A , B , C , D._>> Đáp_ánCâu 3 : Điền_số vào dấu hỏi chấm . >> Đáp ánCâu 4 : Điền_số vào dấu hỏi chấm . >> Đáp_ánTheo Fun with puzzles

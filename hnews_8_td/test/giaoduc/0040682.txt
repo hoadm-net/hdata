@@ -1,0 +1,1 @@
+Thử thách_IQ với bốn câu đố điền_số Các số trong mỗi bảng được sắp_xếp theo quy_luật nhất_định . Bạn hãy suy_luận để tìm số còn thiếu_điền vào bảng .

@@ -1,0 +1,1 @@
+' Sẽ có không_gian nghiên_cứu , học_tập cho 20.000 chuyên_gia công_nghệ ' Theo lãnh_đạo FPT_Software Quy_Nhơn , dự_án Tổ_hợp Trung_tâm nghiên_cứu sản_xuất và đào_tạo chuyên_gia công_nghệ sẽ là không_gian nghiên_cứu , học_tập cho gần 20.000 chuyên_gia , học_viên mỗi năm .

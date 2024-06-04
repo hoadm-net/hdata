@@ -1,0 +1,1 @@
+Tập chạy theo biến thiên_nhịp tim Biến_thiên_nhịp tim ( HRV ) là thước_đo hiệu_suất giúp người chạy bộ hiểu rõ hơn về mức_độ phục_hồi và thể_lực .

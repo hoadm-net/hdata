@@ -1,0 +1,1 @@
+Anh triển_khai ' bác_sĩ ' ung_thư AI tại các bệnh_viện Anh sẽ triển_khai trí_tuệ nhân_tạo ( AI ) vào tất_cả khoa xạ_trị tại bệnh_viện , nhằm giảm thời_gian chờ_đợi và giúp phát_hiện tế_bào ung_thư nhanh hơn 2,5 lần so với bác_sĩ .

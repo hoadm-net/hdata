@@ -1,0 +1,1 @@
+Robot thụ_phấn 6 tay hoạt_động trong nhà_kính Nhờ có 6 cánh_tay , robot_Stickbug có_thể thụ_phấn cho nhiều bông hoa cùng lúc với tốc_độ 1,5 lần thụ_phấn mỗi phút .

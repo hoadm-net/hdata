@@ -1,0 +1,1 @@
+Trái_Đất có bao_nhiêu mảng kiến_tạo ? Số_lượng mảng kiến_tạo trên Trái_Đất nằm trong khoảng từ 10 đến 100 và phần_lớn thậm_chí không xuất_hiện trên bản_đồ chính_thức .

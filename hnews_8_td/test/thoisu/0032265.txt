@@ -1,0 +1,1 @@
+' Chỉ bổ_sung ADN vào dữ_liệu căn_cước khi người_dân tự_nguyện cung_cấp ' Cơ_quan soạn_thảo và thẩm_tra cho biết thông_tin ADN chỉ được bổ_sung vào dữ_liệu căn_cước khi người_dân tự_nguyện cung_cấp hoặc trong trường_hợp đặc_biệt .

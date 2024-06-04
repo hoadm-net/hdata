@@ -1,0 +1,1 @@
+Khẩu_trang giúp thực_hiện cuộc_gọi bí_mật Khẩu_trang Silent_Mask hấp_thụ giọng của người đeo và truyền cho người đang cùng trò_chuyện ở đầu dây bên kia , không để âm_thanh lọt ra ngoài .

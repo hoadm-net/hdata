@@ -1,0 +1,1 @@
+' Trường liên_cấp Việt_Anh chuyển_đổi số để tối_ưu_quản_trị ' Theo ông Trần_Phúc_Hưng , Trưởng Dự_án Chuyển_đổi số của Trường Tiểu_học - THCS - THPT Việt_Anh , với sự phát_triển của nhà_trường , chuyển_đổi số trong quản_lý thông_tin là tất_yếu .

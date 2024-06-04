@@ -1,0 +1,1 @@
+Triệu_chứng bệnh suy_giáp theo độ tuổi Suy_giáp có các triệu_chứng khác nhau tùy vào từng nhóm tuổi như kém tăng_trưởng , mệt_mỏi , nhạy_cảm với thời_tiết lạnh , mặt sưng , giọng khàn .

@@ -1,0 +1,1 @@
+' Hầm thời_gian ' đóng kín đợi mở_cửa sau 6.000 năm

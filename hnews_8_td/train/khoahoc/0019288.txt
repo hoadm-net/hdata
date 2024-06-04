@@ -1,0 +1,1 @@
+Cách vận_hành của robot Ấn_Độ trên Mặt_Trăng_Robot tự_hành_Pragyan hoạt_động bán tự_động trên Mặt_Trăng , nó có_thể nhận lệnh từ trạm điều_hành ở mặt_đất để thay_đổi lộ_trình khi gặp chướng_ngại_vật .

@@ -1,0 +1,1 @@
+Hệ_thống xây nhà xếp chồng từng khối như lego Hệ_thống gồm nhiều khối nhà , mỗi khối có hình_dạng giống container vận_chuyển và đóng vai_trò là một phòng đơn trong tòa nhà lớn .

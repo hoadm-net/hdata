@@ -1,0 +1,1 @@
+' Ứng_dụng dữ_liệu dân_cư sẽ giúp giảm 7-20 % rủi_ro cho vay ' Mô_hình đánh_giá mức_độ tín_nhiệm khách_hàng vay dựa trên dữ_liệu dân_cư , theo thử_nghiệm của các công_ty tài_chính và ngân_hàng , có_thể giảm tới 20 % rủi_ro cho vay .

@@ -1,0 +1,1 @@
+Các chuyến bay dự_đoán nhiễu_động bằng cách nào ? Nhiễu_động có 4 loại chính ( nhiệt , cơ_học , dòng đuôi và trời trong ) , trong đó ' nhiễu_động trời trong ' máy_bay Singapore gặp hôm 21/5 , khó dự_đoán và nguy_hiểm nhất .

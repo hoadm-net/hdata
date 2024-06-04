@@ -1,0 +1,1 @@
+Bài_toán chia bánh của học_sinh lớp 6 Chiếc bánh có dạng hình_chữ_nhật lớn , bị khuyết_phần nhỏ như hình_vẽ . Chỉ với một lần cắt , bạn có tìm được cách chia đều chiếc bánh này ?

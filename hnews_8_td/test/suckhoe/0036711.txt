@@ -1,0 +1,1 @@
+Bác_sĩ điều_khiển robot mổ bệnh_nhân ở cách 2.000 km Bác_sĩ Hua_Keqin điều_khiển cánh_tay robot , truyền dữ_liệu theo thời_gian thực đến robot trong phòng mổ cách 2.000 km để cắt bỏ tử_cung cho bệnh_nhân 50 tuổi .

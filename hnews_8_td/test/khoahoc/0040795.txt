@@ -1,0 +1,1 @@
+VinAI ra_mắt mô_hình ngôn_ngữ lớn tên PhởGPT_PhởGPT có mô_hình tương_tự ChatGPT , huấn_luyện bằng dữ_liệu tiếng Việt nhằm tạo khả_năng hiểu , viết theo văn_phong tự_nhiên , ra_mắt ngày 5/12 .

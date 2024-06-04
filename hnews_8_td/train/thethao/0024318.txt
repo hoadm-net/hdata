@@ -1,0 +1,1 @@
+Tập chạy theo phương_pháp 30-20-10 Việc tập_luyện theo tổ_hợp - 30 giây chạy nhẹ , 20 giây tăng_tốc và 10 giây nước_rút - có_thể cải_thiện đáng_kể hiệu_suất của runner , trong khi yêu_cầu quãng đường chạy ít hơn .

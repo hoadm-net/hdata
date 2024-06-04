@@ -1,0 +1,1 @@
+Phân_loại BIRADS theo kết_quả khám vú BIRADS là thước_đo phân_loại nhằm mã_hóa các tổn_thương trên siêu_âm , chụp X-quang tuyến vú , MRI_vú theo mức_độ và nguy_cơ ung_thư .

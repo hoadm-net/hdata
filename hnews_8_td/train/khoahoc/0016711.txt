@@ -1,0 +1,1 @@
+AI thắng phi_công trong cuộc đua lái_drone Sử_dụng camera và cảm_biến , drone do AI điều_khiển đánh_bại các phi_công khi vượt qua đường đua đầy chướng_ngại_vật với tốc_độ cao .

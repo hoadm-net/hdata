@@ -1,0 +1,1 @@
+Robot AI tiên_đoán và cười cùng lúc với người đối_diện Robot_Emo có_thể dự_đoán nụ cười khoảng 840 mili_giây trước khi người đối_diện cười , sau đó cười cùng lúc .

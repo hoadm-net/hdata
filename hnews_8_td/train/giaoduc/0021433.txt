@@ -1,0 +1,1 @@
+Học_sinh chuyên không được thi học_sinh giỏi ở môn chuyên Học_sinh lớp chuyên được thi bất_kỳ môn nào trong kỳ thi học_sinh giỏi lớp 12 , trừ môn chuyên đang học .

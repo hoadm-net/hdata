@@ -1,0 +1,1 @@
+Thử_nghiệm dùng trí_tuệ nhân_tạo dự_báo giá nhà Nhóm nhà_khoa_học Việt thu_thập gần 200 dữ_liệu về nhà ở , đưa vào mô_hình máy_học nhằm dự_đoán giá nhà_sát với thị_trường .

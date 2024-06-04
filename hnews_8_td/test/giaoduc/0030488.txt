@@ -1,0 +1,1 @@
+Tỉnh nào nhỏ nhất Nam_Bộ ? Không tính hai thành_phố thuộc trung_ương là Cần_Thơ và TP HCM , đây là địa_phương nhỏ nhất ở Nam_Bộ , với diện_tích khoảng 1.520 km2 .

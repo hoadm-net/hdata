@@ -1,0 +1,1 @@
+Sinh_viên ứng_dụng trí_tuệ nhân_tạo làm mô_hình dự_báo giá cafe Nhóm sinh_viên RMIT Việt_Nam phát_triển mô_hình có_thể dự_báo giá cafe Robusta bằng cách tận_dụng dữ_liệu lịch_sử giá cafe , giá xăng_dầu , nhiệt_độ và lượng mưa .

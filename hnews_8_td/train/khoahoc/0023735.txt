@@ -1,0 +1,1 @@
+Bộ chỉ_số sáng_tạo cấp địa_phương của Việt_Nam được xây_dựng thế_nào Chỉ_số đổi_mới sáng_tạo cấp địa_phương ( PII ) được xây_dựng theo cấu_trúc giống như Chỉ_số đổi_mới sáng_tạo toàn_cầu ( GII ) nhưng được điều_chỉnh để phù_hợp thực_tiễn từng địa_phương ở Việt_Nam .

@@ -1,0 +1,1 @@
+Trái_cây nào chứa nhiều đường Các loại trái_cây có hàm_lượng đường cao nhất bao_gồm xoài , vải , nho , lựu , cherry ... trong khi bơ , ổi , dưa_vàng , đu_đủ có ít đường hơn .

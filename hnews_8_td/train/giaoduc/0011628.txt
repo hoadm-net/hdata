@@ -1,0 +1,1 @@
+Bỏ xếp loại tốt_nghiệp THCS Từ năm_học tới , học_sinh hoàn_thành chương_trình THCS sẽ được cấp bằng tốt_nghiệp nhưng không ghi loại giỏi , khá hay trung_bình như trước .

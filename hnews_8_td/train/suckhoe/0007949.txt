@@ -1,0 +1,1 @@
+Tinh_trùng ít Trường_hợp có số_lượng tinh_trùng thấp hơn so với ngưỡng 39 triệu trong 1 ml tinh_dịch có_thể xem là tinh_trùng ít , gây hiếm_muộn ở nam_giới .

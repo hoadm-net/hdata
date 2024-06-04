@@ -1,0 +1,1 @@
+' Vua nha đam ' giảm lãi Doanh_thu và lãi trước thuế tăng nhưng doanh_nghiệp phát_sinh thêm chi_phí thuế_thu_nhập hiện_hành khiến lợi_nhuận sau thuế giảm 8 % so với cùng kỳ .

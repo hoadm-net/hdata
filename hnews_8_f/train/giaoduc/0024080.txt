@@ -1,0 +1,1 @@
+Tỉnh nào có tên thành_phố trực_thuộc ngắn nhất ? Trong 58 tỉnh , một địa_phương có tên thành_phố trực_thuộc chỉ ba chữ_cái , ngắn nhất trong tất_cả các thành_phố . Thanh_Hằng ( Tổng_hợp )

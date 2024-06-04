@@ -1,0 +1,1 @@
+' Thiết_kế mô_hình đào_tạo để kịp chuẩn_bị nhân_lực ngành vi_mạch bán_dẫn ' Để một kỹ_sư có_thể làm_việc trong ngành vi_mạch bán_dẫn cần tới 6 năm_học cả cơ_bản và chuyên_sâu , vì_vậy cần có mô_hình phù_hợp mới tính đến phát_triển chương_trình đào_tạo .

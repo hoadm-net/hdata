@@ -1,0 +1,1 @@
+Drone Nga gắn dây_cáp để chống gây_nhiễu Nga gắn dây_cáp cho drone thay_vì điều_khiển bằng tín_hiệu vô_tuyến , giúp nó không bị vô_hiệu hóa bởi thiết_bị gây_nhiễu .

@@ -1,0 +1,1 @@
+4 dạng polyp túi mật thường gặp Polyp_túi mật gồm nhiều loại như polyp_thể cholesterol , polyp_thể viêm , polyp_thể u_tuyến , mỗi loại có hình_dạng , kích_thước và nguy_cơ diễn_tiến ác_tính khác nhau .

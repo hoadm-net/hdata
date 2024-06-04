@@ -1,0 +1,1 @@
+Robot tự in 3D cơ_thể để vươn dài như cây_leo Robot_FiloBot gồm phần đầu phía trên hình_nón , nguồn năng_lượng ở phía dưới và đặc_biệt là phần thân ở giữa có_thể tự mọc dài ra .

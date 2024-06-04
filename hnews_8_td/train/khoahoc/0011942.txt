@@ -1,0 +1,1 @@
+Hệ_thống mái ngói đóng mở theo nhiệt_độ Hệ_thống mái ngói do Đại_học California Santa_Barbara phát_triển gồm chuỗi cửa chớp sử_dụng động_cơ sáp để đóng mở theo nhiệt_độ , giúp tiết_kiệm năng_lượng .

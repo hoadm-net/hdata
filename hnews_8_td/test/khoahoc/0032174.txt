@@ -1,0 +1,1 @@
+Robot côn_trùng nhỏ và nhanh kỷ_lục Hai_robot MiniBug và WaterStrider dài lần_lượt 8,5 mm và 22 mm , có_thể di_chuyển với tốc_độ khoảng 6 mm mỗi giây .

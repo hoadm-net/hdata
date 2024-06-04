@@ -1,0 +1,1 @@
+Sinh_viên chế_thiết_bị tự_động chống cháy nổ xe_máy Thiết_bị của nhóm sinh_viên trường Đại_học Sư_phạm Kỹ_thuật TP HCM thiết_kế có cảm_biến nhận_biết khói và phát_hiện hơi xăng giúp phát tín_hiệu điều_khiển và tự khởi_động bình chữa_cháy trong trường_hợp khẩn_cấp .

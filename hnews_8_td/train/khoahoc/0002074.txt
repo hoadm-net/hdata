@@ -1,0 +1,1 @@
+Sinh_viên Bách_khoa TP HCM làm trò_chơi phục_hồi chức_năng tay Trò_chơi điện_tử do nhóm sinh_viên phát_triển , ứng_dụng trí_tuệ nhân_tạo nhận_diện cử_chỉ tay và hỗ_trợ phục_hồi chức_năng cho bộ_phận này .

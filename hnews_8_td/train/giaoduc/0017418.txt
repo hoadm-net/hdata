@@ -1,0 +1,1 @@
+Bài_toán điền_số vào bảng ô_vuông Cho bảng ô vuông_9x9 . Bạn hãy điền các số tự_nhiên từ 1 đến 81 vào bảng , sao cho mỗi ô chỉ có một_số , đồng_thời_tích các số ở mỗi hàng và mỗi cột như nhau .

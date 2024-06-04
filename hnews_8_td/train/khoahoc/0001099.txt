@@ -1,0 +1,1 @@
+Sinh_viên sáng_chế thiết_bị dò khí độc trong môi_trường Thiết_bị do nhóm sinh_viên Viện Vật_lý Kỹ_thuật , Đại_học Bách_khoa Hà_Nội phát_triển có_thể phát_hiện khí độc_NH3 , H2S ... có trong môi_trường .

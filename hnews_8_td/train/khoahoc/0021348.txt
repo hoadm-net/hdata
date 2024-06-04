@@ -1,0 +1,1 @@
+Robot 12 tấn có_thể tự_động xây tường đá Robot_HEAP sử_dụng những công_nghệ tiên_tiến để rà_quét , phân_loại các khối đá và vật_liệu tái_chế , sau đó tự_động xây tường .

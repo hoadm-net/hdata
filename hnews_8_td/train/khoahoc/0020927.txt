@@ -1,0 +1,1 @@
+' Cần có cơ_chế đặc_thù chấp_nhận rủi_ro trong khoa_học ' Các nhà_khoa_học và quản_lý cho rằng để thực_hiện thành_công Chiến_lược phát_triển khoa_học công_nghệ và đổi_mới sáng_tạo đến 2023 cần nhanh_chóng hoàn_thiện cơ_chế , trong đó chấp_nhận độ trễ và rủi_ro trong khoa_học .

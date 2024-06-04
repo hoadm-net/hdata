@@ -1,0 +1,1 @@
+Turbine_gió với hàng_loạt cánh chạy trên đường_ray Khi gió thổi , các cánh của mẫu turbine gió mới do startup_Mỹ phát_triển sẽ di_chuyển quanh đường_ray và tạo ra năng_lượng .

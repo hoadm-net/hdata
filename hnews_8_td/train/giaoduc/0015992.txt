@@ -1,0 +1,1 @@
+Kiểm_tra IQ với câu_đố tìm quy_luật dãy số Cho dãy số 2 , 3 , 5 , 9 , 17 . Trong hai phút , bạn có_thể tìm ra quy_luật của dãy này và điền_số còn thiếu vào dấu hỏi chấm ?

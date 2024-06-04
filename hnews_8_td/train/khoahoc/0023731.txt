@@ -1,0 +1,1 @@
+Sinh_viên làm thiết_bị phát_hiện dư_lượng kháng_sinh trong thực_phẩm Ứng_dụng công_nghệ cảm_biến điện hóa , nhóm sinh_viên Đại_học Công_nghệ ( ĐHQGHN ) phát_triển thiết_bị có_thể xác_định dư_lượng kháng_sinh trong sữa , thịt , hải_sản … ở nồng_độ thấp .

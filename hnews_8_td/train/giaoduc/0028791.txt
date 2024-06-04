@@ -1,0 +1,1 @@
+Lớp_học cô_giáo cho 100 % học_sinh dùng máy_tính bảng Suốt_tiết Khoa_học , cô Ngọc_Thi không dùng tới phấn và bảng mà cùng học_trò tương_tác qua máy_tính bảng , được kết_nối với màn_hình lớn giữa lớp .

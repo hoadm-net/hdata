@@ -1,0 +1,1 @@
+Robot xây_dựng rải 300 viên gạch mỗi giờ Robot_Hadrian X có_thể dựng những bức tường quanh khu_vực rộng 70 m2 trong một giờ nhờ sử_dụng gạch lớn và keo_dính đặc_biệt .

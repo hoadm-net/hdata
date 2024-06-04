@@ -1,0 +1,1 @@
+Giá giường dịch_vụ bệnh_viện công tối_đa 4 triệu đồng một ngày Các bệnh_viện công có_thể thu tiền khám bệnh mỗi lượt 500.000 đồng , tiền giường nằm 4 triệu đồng một ngày , kể từ 15/8 .

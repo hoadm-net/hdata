@@ -1,0 +1,1 @@
+Dùng laser_truyền dữ_liệu tốc_độ 1.000 gigabit mỗi giây

@@ -1,0 +1,1 @@
+Bài_toán con ếch nhảy trên lá hoa súng Con_ếch ngồi trên lá hoa súng ngoài cùng bên trái , mỗi bước có_thể nhảy qua lá kế bên , hoặc cách một lá , không nhảy_lùi . Hỏi có bao_nhiêu cách để nhảy đến lá cuối_cùng , biết hàng có 10 lá súng ?

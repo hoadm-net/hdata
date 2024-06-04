@@ -1,0 +1,1 @@
+Chip máy_tính lớn nhất thế_giới Chip_Wafer Scale_Engine 3 ( WSE-3 ) của Cerebras chứa 4 nghìn tỷ_transistor và sẽ giúp chạy siêu máy_tính Condor_Galaxy 3 công_suất 8 exaFLOP trong tương_lai .

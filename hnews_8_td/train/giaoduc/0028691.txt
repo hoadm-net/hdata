@@ -1,0 +1,1 @@
+Một lớp 8 có ba giải nhất thi học_sinh giỏi lớp 9 Lớp_8A2 , trường THCS Giảng_Võ , quận Ba_Đình , có ba học_sinh đạt giải nhất Tin_học , Sinh_học và Vật_lý trong kỳ thi học_sinh giỏi lớp 9 của thành_phố .

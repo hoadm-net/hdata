@@ -1,0 +1,1 @@
+Anh tìm cách sản_xuất điện gió bằng drone Hệ_thống AWES sẽ thu_thập năng_lượng gió ở độ cao_lớn hơn turbine thông_thường bằng drone nối với trạm mặt_đất , mượn sức gió đẩy drone để chạy máy_phát_điện .

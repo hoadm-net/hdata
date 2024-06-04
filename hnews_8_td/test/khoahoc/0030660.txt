@@ -1,0 +1,1 @@
+Xe_đạp lai ôtô tốc_độ 48 km / h Iris_eTrike là phương_tiện cá_nhân nửa giống xe_đạp nửa giống ôtô , có tốc_độ 48 km / h và sức chứa 100 kg hành_lý .
