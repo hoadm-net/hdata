@@ -1,0 +1,1 @@
+Pacific Airlines trả slot không dùng khi ngừng bay Pacific_Airlines sẽ hoàn_trả lượt cất hạ_cánh ( slot ) không sử_dụng khi tạm dừng bay , nhưng xin giữ lại lịch_sử các slot này cho mùa sau khi đội bay được củng_cố .

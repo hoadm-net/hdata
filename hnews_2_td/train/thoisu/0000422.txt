@@ -1,0 +1,1 @@
+' Cắt ngọn ' chung_cư mini 200 căn_hộ Chủ chung_cư mini 200 căn_hộ My_Home phải tháo_dỡ 5 tầng , trả lại nguyên_trạng 3 tầng theo giấy_phép xây_dựng .

@@ -1,0 +1,1 @@
+Mỗi công_chức sẽ có một mã_định danh

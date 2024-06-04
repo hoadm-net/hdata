@@ -1,0 +1,1 @@
+Ứng_dụng mobile banking đầu_tiên tích_hợp công_nghệ SoftPOS Ứng_dụng VIB_Checkout cho_phép chạm để thanh_toán trên smartphone , đồng_thời cung_cấp nền_tảng quản_lý tài_chính và thực_hiện giao_dịch theo nhu_cầu người dùng .

@@ -1,0 +1,1 @@
+BIDV triển_khai dịch_vụ rút_tiền VietQRCash

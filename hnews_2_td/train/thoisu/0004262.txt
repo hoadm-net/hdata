@@ -1,0 +1,1 @@
+' Cần coi nước_thải là tài_nguyên ' Theo Phó chủ_tịch Quốc_hội Nguyễn_Khắc_Định , nước là tài_nguyên rất quý , trong khi mỗi ngày có hàng triệu m3 nước_thải nên cần dùng công_nghệ để sử_dụng lại .

@@ -1,0 +1,1 @@
+BIDV triển_khai dịch_vụ rút_tiền VietQRCash_Người dùng có_thể rút_tiền trên ATM giữa các ngân_hàng tham_gia triển_khai dịch_vụ qua phương_thức quét_mã VietQR .

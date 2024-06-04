@@ -1,0 +1,1 @@
+' Nợ thuế quá hạn 1 đồng cũng phải cưỡng_chế để thu_hồi '

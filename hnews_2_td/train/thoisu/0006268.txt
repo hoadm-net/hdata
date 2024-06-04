@@ -1,0 +1,1 @@
+Tân_Sơn_Nhất vận_hành 10 cổng kiểm_soát xuất , nhập_cảnh tự_động 10 cổng kiểm_soát xuất , nhập_cảnh tự_động ( Autogate ) vận_hành ở sân_bay Tân_Sơn_Nhất giúp khách thuận_tiện làm thủ_tục , rút ngắn thời_gian so với kiểm_tra thủ_công .
