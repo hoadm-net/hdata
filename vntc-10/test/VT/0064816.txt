@@ -1,0 +1,1 @@
+Giảm nén cho các file MP3 ( 1 ) Chào các bạn , tôi có một_số file MP3 với 32K b / s . Tôi xin hỏi có cách nào để thay_đổi thành các file_MP3 với 64K b / s hoặc lớn hơn . Hà_Văn_Bình Hồi_âm : Bạn có_thể dùng JetAudio 6 , chương_trình này có_thể convert giữa các file với nhau và cũng có_thể tăng giảm mức nén của từng file .

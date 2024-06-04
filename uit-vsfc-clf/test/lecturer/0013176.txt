@@ -1,0 +1,1 @@
+nộp báo_cáo giữa kỳ không có hồi_đáp , đến lúc báo_cáo cuối_kỳ thì lại bảo đề_tài các em báo_cáo không được phép chọn , mặc_dù đề_tài có trong danh_sách giảng_viên up lên moodle .

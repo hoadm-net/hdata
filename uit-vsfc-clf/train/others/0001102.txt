@@ -1,0 +1,1 @@
+ida pro 64 - bit hoàn_toàn có_thể phân_tích các file thực_thi 32 - bit nhưng các thanh ghi phức_tạp hơn nhiều thay cho ida pro 64 - bit không phân_tích được cái file thực_thi 32 - bit colonsmile .

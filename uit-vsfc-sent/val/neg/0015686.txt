@@ -1,0 +1,1 @@
+số_lượng sinh_viên lớp nên tối_đa là 30 , vì đây là môn_học cá_biệt cần sự tương_tác thực_tế .

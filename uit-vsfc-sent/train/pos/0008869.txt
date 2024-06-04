@@ -1,0 +1,1 @@
+môn_học giúp sinh_viên vận_dụng được các kỹ_năng về lập_trình , giúp sinh_viên hiểu rõ về hướng đối_tượng và giúp sinh_viên có_thể tự làm ra các phần_mềm đơn_giản cho riêng mình bằng ngôn_ngữ c .

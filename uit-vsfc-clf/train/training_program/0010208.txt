@@ -1,0 +1,1 @@
+sử_dụng thư_viện của standford , dùng các câu_lệnh trong đó để áp_dụng vào việc phân_loại văn_bản .

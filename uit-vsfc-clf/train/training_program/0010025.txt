@@ -1,0 +1,1 @@
+nhà_trường nên dạy những chuẩn_sql mới vì chuẩn sql 92 hiện_nay không còn phù_hợp với những phiên_bản sql mới và nó đã quá cũ rồi .

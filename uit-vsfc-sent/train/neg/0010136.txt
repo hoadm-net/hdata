@@ -1,0 +1,1 @@
+lúc đầu có sai_sót kỹ_thuật ở mã môn_học it006dote12 có hai dấu chấm nên sinh_viên không được add vào môn_học trong hệ_thống moodle nên thầy phải cung_cấp tài_liệu cho sinh_viên qua google site .

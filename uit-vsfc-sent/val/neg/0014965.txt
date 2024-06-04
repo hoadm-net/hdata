@@ -1,0 +1,1 @@
+phần thực_hành nếu có phải nộp bài nào để lấy điểm thì nên thông_báo lên moodle và cho nộp online .

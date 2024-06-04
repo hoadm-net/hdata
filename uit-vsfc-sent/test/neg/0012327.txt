@@ -1,0 +1,1 @@
+chính vì đặc_thù của môn_học là như_vậy , nên khi code thầy nên quay lại màn_hình cho sinh_viên về xem_lại , thời_gian code lâu , hơn_nữa cho_dù sinh_viên hiểu code nhưng khó để hình_dung các ký tự một_cách chính_xác .

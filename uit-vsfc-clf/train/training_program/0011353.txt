@@ -1,0 +1,1 @@
+deadline 3 lần sau đó được cho thêm 2 ngày , nhưng đến 23 h59 ngày hôm sau đã quá hạn , nếu nộp vào ngày hôm sau nữa sẽ trễ deadline .

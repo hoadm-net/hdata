@@ -1,0 +1,1 @@
+giảng_viên nên cho sinh_viên lựa_chọn các nền_tảng để phát_triển game chứ không nhất_thiết phải chọn nền_tảng directx trên c .

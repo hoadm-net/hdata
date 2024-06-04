@@ -1,0 +1,1 @@
+hệ_thống wecode cần sửa lại tính_năng submit kết_quả cuối_cùng , bao_nhiêu sinh_viên bị mất điểm vì submit trong đó có cả em colonsadcolon .

@@ -1,0 +1,1 @@
+lập_trình hướng đối_tượng nói_riêng và tất_cả các môn liên_quan đến lập_trình nói_chung theo em nên được cập_nhật tài_liệu thường_xuyên , đặc_biệt là các phần_mềm trong các phòng lab để tránh tình_trạng các tài_liệu và phần_mềm hỗ_trợ học_tập lỗi_thời và gây khó_khăn cho việc giảng_dạy và học_tập .

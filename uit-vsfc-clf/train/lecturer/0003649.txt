@@ -1,0 +1,1 @@
+bài_tập lớn trong môn_học , đóng_góp_phần_lớn điểm yêu_cầu sinh_viên phải có smartphone và laptop cỡ trung_trở lên để thực_hiện ( nhận_diện giọng nói , nhận_diện chữ_viết , game với engine phát_triển game cho smartphone ) , điều này gây khó_khăn cho sinh_viên không có điều_kiện , yêu_cầu sinh_viên tìm_hiểu các framework chưa từng nghe tên để làm bài_tập .

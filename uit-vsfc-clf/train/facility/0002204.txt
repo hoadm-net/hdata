@@ -1,0 +1,1 @@
+nâng_cấp hệ_thống máy_vi_tính trong phòng thực_hành doubledot phòng thực_hành altera không có kết_nối internet , nên cần phải đảm_bảo kết_nối mạng để hiệu_quả thực_hành đạt hiệu_quả cao hơn .

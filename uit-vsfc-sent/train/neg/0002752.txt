@@ -1,0 +1,1 @@
+rồi một nhóm thì phải chấm điểm báo_cáo cuối kỳ cho 3 nhóm khác , làm phiếu chấm điểm , soạn câu hỏi mà có yêu_cầu ra đáp_án đồ_án của nhóm code chưa tới đâu thì sao mà ngồi đọc source của nhóm khác để code tiếp cho họ .

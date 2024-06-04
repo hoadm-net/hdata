@@ -1,0 +1,1 @@
+nếu trang_thiết_bị đã không đáp_ứng được thì tại_sao trường không tạo điều_kiện kéo dây_mạng cho sinh_viên cắm vào laptop .

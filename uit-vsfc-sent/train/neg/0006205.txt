@@ -1,0 +1,1 @@
+giảng_viên cần đưa ra những ví_dụ thực_tiễn minh_họa cho bài_học , không nên giảng quá nhiều về lý_thuyết trừu_tượng , nên sửa bài_tập để sinh_viên có_thể sửa những lỗi của mình trong khi làm bài bài_tập .

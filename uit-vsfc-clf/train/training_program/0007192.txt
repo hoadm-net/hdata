@@ -1,0 +1,1 @@
+slide được biện_soạn từ sách network programing with csharp , trong sách viết rất rõ_ràng , tuy_nhiên khi dịch và đưa vào slide thì gây khó hiểu , như là đưa các ý chính vào slide để cho có , vấn_đề là slide là nơi để trình_bày các hình_ảnh , các minh_họa chứ không phải là nơi để các câu bưng từ sách ra .

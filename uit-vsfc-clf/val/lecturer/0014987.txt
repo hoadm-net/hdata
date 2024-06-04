@@ -1,0 +1,1 @@
+dạy sai kiến_thức về fork , sai giải_thuật round - robin , sai kiến_thức về bộ_nhớ .

@@ -1,0 +1,1 @@
+cần hiểu rõ thêm cách kết_nối prolog với c .

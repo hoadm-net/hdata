@@ -1,0 +1,1 @@
+dạy từng phần , vẽ từng đoạn mạch và lý_giải chứ không giải_thích chung cả hình_chương 4 doubledot datapath .

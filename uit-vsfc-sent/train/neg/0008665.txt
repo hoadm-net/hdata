@@ -1,0 +1,1 @@
+chưa rõ mục_tiêu và các bước thực_hiện bài_tập truy_vấn dbpedia và tạo ontology .

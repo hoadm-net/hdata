@@ -1,0 +1,1 @@
+cần bổ_sung các kiến_thức về kiến_trúc của dbms .

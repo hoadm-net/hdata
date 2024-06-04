@@ -1,0 +1,1 @@
+nên chia thành nhiều phần để đánh_giá sinh_viên chứ không tập_trung vào cuối kỳ doubledot 50 % giành cho kiến_thức cơ_bản , một hình_thức nào đó để buộc_sinh phải có kiến_thức về dotnet nắm về nguyên_lý của nó , về cách tổ_chức , cách thiết_kế và sử_dụng .

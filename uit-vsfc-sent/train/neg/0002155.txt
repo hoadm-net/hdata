@@ -1,0 +1,1 @@
+khi có nhóm lên seminar thì phải có ít_nhất ba câu hỏi thì mới " đậu " , không cần biết câu hỏi là gì , không đủ ba câu thì phải làm lại .

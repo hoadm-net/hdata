@@ -1,0 +1,1 @@
+cần thêm phần ngôn_ngữ sql kết_hợp với ngôn_ngữ lập_trình c để có_thể lập_trình được cho một cơ_sở dữ_liệu .

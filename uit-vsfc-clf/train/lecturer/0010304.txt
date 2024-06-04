@@ -1,0 +1,1 @@
+giảng_viên dạy sai kiến_thức về fork , giải_thuật round robin , bài_tập về chiến_lược placement .

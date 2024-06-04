@@ -1,0 +1,1 @@
+đề_thi không phân_bố điểm , nếu chạy được chương_trình thì có điểm , không chạy được chương_trình thì 0 điểm .

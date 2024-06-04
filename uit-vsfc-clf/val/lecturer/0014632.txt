@@ -1,0 +1,1 @@
+khi ra đề_thi thầy nên kiểm_tra kỹ nội_dung đề , tránh để sót lỗi điển_hình như doubledot tên cột của bảng_trùng từ khóa của oracle .

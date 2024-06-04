@@ -1,0 +1,1 @@
+lúc cho_phép sửa_điểm thì không thông_báo giờ cụ_thể chỉ nói " buổi tối " .

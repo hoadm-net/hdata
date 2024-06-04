@@ -1,0 +1,1 @@
+cần sắp_xếp phòng học cho phù_hợp với số_lượng sinh_viên để sinh_viên tiếp_thu tốt hơn .

@@ -1,0 +1,1 @@
+Thư vào Delete trong Outlook_Express 6 ( 1 ) Các anh_chị chỉ giúp em làm thế_nào để thư_nhận về Outlook_Express không vào thư_mục Delete mà vào Inbox , một_số thư từ địa_chỉ khác thì lại không như_vậy . Xuân_Sơn Hồi_âm : Trên menu chọn Tool / Message Rules / Blocked Senders_list .. Tìm địa_chỉ đó và xóa đi . Chúc bạn thành_công !

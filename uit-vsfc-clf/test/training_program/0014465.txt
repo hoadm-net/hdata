@@ -1,0 +1,1 @@
+nên giới_thiệu những kỹ_năng cần khi làm trong mảng nào đó ví_dụ doubledot làm web thì cần biết php , html , cs , hay làm hệ_thống nhúng cần biết c , vdotv .

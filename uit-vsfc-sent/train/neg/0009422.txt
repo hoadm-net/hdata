@@ -1,0 +1,1 @@
+chỉnh lại thời_lượng làm bài thi và nội_dung thi , vì không tương_thích , đề_dài và thời_gian ngắn .

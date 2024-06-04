@@ -1,0 +1,1 @@
+Lỗi sound card Main cua_minh da bi_chet cong PCI nen_minh phai_dung cong ISA_de cam sound card , hieu YAMAHA_OPL3-SAx ( doi cu ) . Binh_thuong van nghe duoc , nhung khi nghe nhac Online thi am_thanh_bi leo_nheo , kho nghe_lam , nhu_bang tu bi_roi . Va xem cac file dinh dang AVI thi am_thanh cung_bi nhu_vay . Mong cac ban giup_minh voi . Keo da kho lam_roi . Cam_on . Quoc

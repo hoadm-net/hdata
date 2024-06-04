@@ -1,0 +1,1 @@
+Lỗi khi cài từ_điển Nga-Việt ( 1 ) Tôi dùng Win XP_SP2 , khi cài từ_điển Nga Việt_SPbDic thì máy báo lỗi Module_C : \_WINDOWS \_system32 \ mfc70d.dll failed to_register , HRESULT - 2147024769 . Xin giải_thích và giúp tôi khắc_phục lỗi này . Chân_thành cảm_ơn !_Công_Hiếu Hồi_âm : Ban thu dang nhap vao Windows voi tai_khoan Admin_roi cai_dat xem sao .

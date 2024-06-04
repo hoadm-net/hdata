@@ -1,0 +1,1 @@
+Nhận biết webserver nào sử_dụng IIS ( 1 ) Xin cho tôi hỏi là phải làm thế_nào để nhận_biết được webserver nào là sử_dụng IIS. Tôi xin cảm_ơn . Ngọc_Dũng Hồi_âm : Don_gian ban chi can_dung mot chuong trinh_Scan_binh thuong_la co_the nhan_biet duoc . VD : Esstential Network_Tool 3.2 hoac Net-tools . Neu biet_dung NAMP_hoac Netcat thi cang tot !

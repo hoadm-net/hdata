@@ -1,0 +1,1 @@
+giáo_trình toàn dùng c không dùng cplusplus nhiều dễ gây_rối trong quá_trình lập_trình .

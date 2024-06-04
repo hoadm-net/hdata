@@ -1,0 +1,1 @@
+phải học quá nhiều phần không cần_thiết , nên giảm bớt vài nội_dung , ví_dụ doubledot vector ngẫu_nhiên 2 chiều , phân_phối poison .

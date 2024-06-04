@@ -1,0 +1,1 @@
+giảng_viên chưa nắm rõ chương_trình , có_khi không fix được lỗi để giảng cho sinh_viên mà giao bài_tập bắt sinh_viên làm , trong khi giáo_trình môn_học gửi trên moodle không đáp_ứng được lượng kiến_thức cần_thiết , còn quá sơ_sài , không cụ_thể , và đôi_khi không có tài_liệu luôn đặc_biệt là về phần c .

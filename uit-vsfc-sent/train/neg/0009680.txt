@@ -1,0 +1,1 @@
+rất nhiều sinh_viên không biết " thực_hành này để làm_gì " khi chỉ lên_lớp , chạy chương_trình có sẵn , chụp ảnh từng bước và dán vào báo_cáo mà không biết chương_trình chạy đúng hay sai , làm_sao để sửa , có những hàm hỗ_trợ nào .

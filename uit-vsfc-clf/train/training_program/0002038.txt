@@ -1,0 +1,1 @@
+mỗi học_kỳ có_thể là đồ_án khác nhau cho toàn_bộ sinh_viên để doubledot_tránh tình_trạng " xào " lại các đồ_án cũ , nên có chung một quy_tắc chuẩn để chấm_điểm cho sinh_viên .

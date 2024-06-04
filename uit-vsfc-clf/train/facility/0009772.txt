@@ -1,0 +1,1 @@
+mỗi khi lấy micro lại phải lấy thêm cả loa .

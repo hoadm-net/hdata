@@ -1,0 +1,1 @@
+nên bỏ kiểm_tra code trên giấy , thay vào đó code bằng máy_tính sẽ dễ sửa lỗi và điều_chỉnh hơn .

@@ -1,0 +1,1 @@
+có_thể phần thực_hành sinh_viên sẽ có hai sự lựa_chọn doubledot tự xây_dựng một chương_trình phân_loại văn_bản , như_vậy chương_trình sẽ có_thể không xử_lý được những đoạn văn_bản phức_tạp hoặc lớn thế nên cách chấm_điểm sẽ có phần nương_tay đối_với phần áp_dụng này .

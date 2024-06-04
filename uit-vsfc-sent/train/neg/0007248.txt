@@ -1,0 +1,1 @@
+phần_lớn thời_gian trên lớp thầy toàn chép bài lên bảng , chép đầy bảng thầy lại xóa rồi chép tiếp .

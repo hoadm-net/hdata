@@ -1,0 +1,1 @@
+sử_dụng thời_gian chưa được hợp_lý ( tốn quá nhiều thời_gian chờ , nhất_là khi báo_cáo giữa kỳ và cuối kỳ ) dẫn đến việc các nhóm báo_cáo cuối bị rút ngắn thời_gian và thay_đổi cách_thức báo_cáo ( không công_bằng trong cách_thức làm_việc giữa các nhóm với nhau doubledot nhóm được thuyết_trình , có nhóm thì không ) .

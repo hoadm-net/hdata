@@ -1,0 +1,1 @@
+mỗi khi báo_cáo tiến_độ đồ_án trong năm_học , giảng_viên chỉ chỉ ra duy_nhất một lỗi trong đồ_án cho sinh_viên , mà không xem toàn_bộ đồ_án để góp_ý cho sinh_viên mọi sai_sót để sinh_viên khắc_phục trong lần báo_cáo cuối kỳ .

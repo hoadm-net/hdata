@@ -1,0 +1,1 @@
+các công_thức đã có sự đổi_mới nên cô cần cập_nhật thêm ( betweenness centrality và closeness_centrality ) tránh áp_đặt kiến_thức lên sinh_viên .

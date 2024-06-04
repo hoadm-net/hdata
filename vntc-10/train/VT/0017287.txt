@@ -1,0 +1,1 @@
+Cách gửi e-mail vào máy di_động GPRS_Toi da biet cach gui hinh anh , tin nhan_vao email . Nhung neu_lam nguoc lai_thi khong duoc . Tuc_la neu toi biet dien thoai GPRS_co kich thuoc hinh anh 128x128_p , nhung toi tao 1 file anh co_kich thuoc nhu_the de gui tu email vao dien thoai thi khong duoc , mac du_email bao_la da_gui . Xin cam_on . Nguyen_Anh Tuan

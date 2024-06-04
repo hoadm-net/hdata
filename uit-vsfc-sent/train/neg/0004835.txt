@@ -1,0 +1,1 @@
+hoặc đưa ra những kỹ_năng chuyên_môn cần phải_biết để làm_việc trong ngành vì ngành công_nghệ_thông_tin rất rộng ví_dụ làm về mảng web thì cần biết php , html , cs , js hay làm về hệ_thống nhúng thì cần c .

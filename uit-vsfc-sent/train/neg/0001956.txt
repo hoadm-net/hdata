@@ -1,0 +1,1 @@
+môn_học chỉ đề_cập các vấn_đề chung của một ngôn_ngữ hướng đối_tượng đã học ở môn lập_trình hướng đối_tượng , lập_trình windows , đa_luồng , đồ họa .

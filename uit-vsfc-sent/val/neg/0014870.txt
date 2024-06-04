@@ -1,0 +1,1 @@
+em nghĩ nhà_trường nên nâng_cấp phiên_bản của sql vì sql 2005 mà nhà_trường đang cho sinh_viên thực_hành còn thiếu_sót nhiều chức_năng , hỗ_trợ .

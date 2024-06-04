@@ -1,0 +1,1 @@
+Khởi_động PC chỉ xuất_hiện màn_hình đen Tôi mốn hỏi tại_sao sau khi tôi khởi_động máy_tính của tôi lên thì chỉ có màn_hình đen_ngòm và có một con trỏ nháp_nháy ở đầu màn_hình . Nếu mà tháo Pin ra thì lại khởi_động được nhưng_mà cũng không vào được trong Win . Hãy chỉ giúp tôi càng sớm càng tốt nhé . Cảm_ơn nhiều . Nguyễn_Quang_Hải

@@ -1,0 +1,1 @@
+thầy nên check_mail và có trả_lời mail của sinh_viên , sinh_viên gửi mail chẳng bao_giờ thấy thầy trả_lời là đã nhận được .

@@ -1,0 +1,1 @@
+cần chia nhỏ thêm các phần của môn thực_hành , khi đó sinh_viên sẽ dễ làm và có_thể hiểu được bài rõ hơn khi thiết_kế mạch và kiểm_tra trên kit .

@@ -1,0 +1,1 @@
+giảm bớt số_lượng nội_dung của môn_học .

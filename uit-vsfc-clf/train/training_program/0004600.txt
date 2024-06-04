@@ -1,0 +1,1 @@
+nếu được thì rút ngắn thời_gian học mỗi môn_học trong một học_kỳ thành 7 tuần 2 buổi tuần hay học theo hình_thức " cuốn_chiếu " các môn_học trong một học_kỳ .

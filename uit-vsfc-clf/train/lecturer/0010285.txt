@@ -1,0 +1,1 @@
+cần đặt câu hỏi cho sinh_viên trong khi giảng_dạy và thêm vào điểm cộng nếu sinh_viên trả_lời được .

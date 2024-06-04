@@ -1,0 +1,1 @@
+giảng_viên chuyên về vhdl , về môn_học này thì sử_dụng hdl nên có nhiều phần giảng_viên không giải_đáp được .

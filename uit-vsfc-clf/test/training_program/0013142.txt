@@ -1,0 +1,1 @@
+phân_bố lại chương_trình học , cụ_thể là thầy fraction cô nên xem_xét lại phần sort các loại sort khó nhất đặt cuối_cùng , rất khó để học cùng lúc và trễ phần code rất khó để hiểu nên nên được học sớm .

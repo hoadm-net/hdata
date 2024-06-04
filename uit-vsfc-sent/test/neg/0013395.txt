@@ -1,0 +1,1 @@
+nội_dung môn_học có tính áp_đặt người học , không thực_tế , nên thay nội_dung giảng_dạy bằng việc dạy thêm những thứ có liên_quan đến ngành sinh_viên đang học mảng_web thì cần biết php , html , cs , js , hay làm về embeded_system thì cần c .

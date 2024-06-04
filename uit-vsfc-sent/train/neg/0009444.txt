@@ -1,0 +1,1 @@
+các nội_dung trong tài_liệu môn_học chưa đầy_đủ và chi_tiết , chưa đi_sâu vào bản_chất của vấn_đề , đặc_biệt là phần xml và hướng đối_tượng .

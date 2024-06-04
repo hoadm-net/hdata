@@ -1,0 +1,1 @@
+môn lập_trình mạng căn_bản sử_dụng ngôn_ngữ csharp nhưng trước đó nhà_trường không đề_xuất cho sinh_viên học_môn này trước , gây nhiều khó_khăn cho sinh_viên khi học môn mới .

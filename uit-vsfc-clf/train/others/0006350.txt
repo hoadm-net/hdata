@@ -1,0 +1,1 @@
+cần tạo kênh liên_lạc giữa sinh_viên và giảng_viên để sinh_viên có_thể nhận được thông_báo từ giảng_viên .

@@ -1,0 +1,1 @@
+mỗi buổi thực_hành sinh_viên chỉ có nhiệm_vụ download bài_tập từ courses và tự làm , giảng_viên không giảng nội_dung thực_hành cho sinh_viên hiểu , chỉ khi sinh_viên hỏi thì mới trả_lời , mỗi buổi học thực_hành , giảng_viên cần phải giới_thiệu sơ về bài_học , mục_tiêu và kết_quả sinh_viên sẽ học được gì .

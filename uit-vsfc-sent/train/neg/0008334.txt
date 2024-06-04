@@ -1,0 +1,1 @@
+nếu có thì nên mở lớp nâng cao web , như xử_lý truy_cập lớn , phân_bố cơ_sở_dữ_liệu có_ích cho việc ra làm hơn .

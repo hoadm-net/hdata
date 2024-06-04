@@ -1,0 +1,1 @@
+chỉ thiếu một lệnh xuống dòng mà mất hết điểm , trong khi phần code chính làm đầy_đủ .

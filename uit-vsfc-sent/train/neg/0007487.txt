@@ -1,0 +1,1 @@
+danh_sách lớp phân_bổ không đều , số sinh_viên nhiều hơn số máy trong phòng lab .

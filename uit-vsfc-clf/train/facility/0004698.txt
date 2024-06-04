@@ -1,0 +1,1 @@
+em nghĩ các phòng máy của trường nên trang_bị phần_mềm sql tối_thiểu là phiên_bản 2008 .

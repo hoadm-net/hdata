@@ -1,0 +1,1 @@
+lớp thường_xuyên đổi giáo_viên , nhiều buổi học nghỉ không thông_báo .

@@ -1,0 +1,1 @@
+phần thực_hành môn_hệ điều_hành linux cần máy_tính cấu_hình mạnh để chạy 4 máy ảo cùng lúc , do yêu_cầu của môn_học thực_hành .

@@ -1,0 +1,1 @@
+các máy_tính trong phòng lab nên cài_đặt thêm phần_mềm android_studio để phục_vụ việc thực_hành_môn này .

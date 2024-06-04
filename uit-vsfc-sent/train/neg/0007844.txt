@@ -1,0 +1,1 @@
+ngoài_ra cô nên đưa ra các chủ_đề cụ_thể về đồ_án và chỉ rõ điểm gì làm cho đồ_án này phải sử_dụng cơ_sở tri_thức mà không sử_dụng hệ cơ_sở_dữ_liệu quan_hệ thông_thường .

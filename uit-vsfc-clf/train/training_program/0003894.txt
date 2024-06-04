@@ -1,0 +1,1 @@
+bài giảng dựa theo chuẩn ngôn_ngữ assembly trên linux nên tìm_kiếm thông_tin , tài_liệu khá khó_khăn .

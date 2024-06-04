@@ -1,0 +1,1 @@
+nếu xét về mặt ý_nghĩa thì đúng , nhưng heapsort là một phương_pháp khó và hoàn_toàn mới , trong khi tất_cả các lớp khác giảng_viên hướng_dẫn nhiệt_tình mà_còn có nhiều sinh_viên không hiểu , ở đây thầy lạ khẳng_định không thi mà nói câu đó nữa thì sinh_viên sau phục được !

@@ -1,0 +1,1 @@
+dạ , cho em hỏi là trường mình là tạo sao không dùng ngôn_ngữ c thay cho assembly .

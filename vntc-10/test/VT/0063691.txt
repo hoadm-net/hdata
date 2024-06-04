@@ -1,0 +1,1 @@
+" Bác_sĩ " cho đĩa CD / DVD Với phiên_bản Skip Doctor_CD chạy bằng pin , người dùng chỉ cần đặt đĩa vào khe mài và máy sẽ tự_động mài , quét trong 60 giây để phục_hồi đĩa . Còn với phiên_bản Skip_Doctor CD_cơ , người sử_dụng sẽ dùng một tay_quay để quay bánh_xe mài , quét_đĩa .

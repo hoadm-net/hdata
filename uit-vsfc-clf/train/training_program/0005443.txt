@@ -1,0 +1,1 @@
+phần hướng_dẫn thực_hành nên tập_trung vào bài_tập cần làm , hơn là hướng_dẫn các ví_dụ khó hiểu và không liên_quan ví_dụ như cho input và output để sinh_viên có_thể hình_dung ra những công_việc cần làm .

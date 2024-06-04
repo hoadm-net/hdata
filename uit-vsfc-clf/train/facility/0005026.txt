@@ -1,0 +1,1 @@
+phòng lab còn chạy visual studio 2008 , không biết viết code kiểu gì lên đó nữa , đây cũng là cái ảnh_hưởng tới kết_quả thi thực_hành của nhiều sinh_viên quen sử_dụng với chuẩn visual studio 2015 .
