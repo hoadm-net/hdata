@@ -1,0 +1,1 @@
+' Điểm_nóng ' nhất của mỗi căn nhà Chẳng phải vô_cớ mà mọi người vẫn gọi bếp là " điểm_nóng " nhất của mỗi ngôi nhà . Bởi đó là nơi có tần_suất sử_dụng tương_đối lớn , là nơi tập_trung cả gia_đình . Chính vì_vậy , bếp cũng là nơi được " chăm_sóc " chu_đáo nhất trong mỗi thiết_kế .
